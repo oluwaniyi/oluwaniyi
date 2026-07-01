@@ -102,18 +102,9 @@ I believe great software should be fast, maintainable, accessible, and enjoyable
 
 ---
 
-# 📈 GitHub Analytics
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=oluwaniyi&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
 # 🤝 Let's Connect
 
-<p>
+<p align="center">
 
 <a href="https://linkedin.com/in/enoch-atanda">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
