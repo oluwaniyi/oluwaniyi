@@ -10,9 +10,6 @@ Building fast, scalable, and intuitive web applications with modern JavaScript t
 <a href="https://linkedin.com/in/enoch-atanda">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<img src="https://komarev.com/ghpvc/?username=oluwaniyi&style=for-the-badge&color=blue"/>
-
 </p>
 
 </div>
