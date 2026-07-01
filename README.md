@@ -1,130 +1,163 @@
-# Hi there 👋, I'm Enoch
+<div align="center">
 
-Frontend Engineer | Data Engineer | JavaScript Enthusiast
+# 👋 Hi, I'm Enoch Atanda
 
-I enjoy building high-performance web applications, interactive user interfaces, and data-driven solutions that solve real business problems. My focus is on creating scalable, maintainable, and intuitive applications using modern JavaScript frameworks and engineering best practices.
+### Frontend Engineer • Data Engineer • JavaScript Specialist
 
----
+Building fast, scalable, and intuitive web applications with modern JavaScript technologies.
 
-## 🚀 About Me
+<p>
+<a href="https://linkedin.com/in/enoch-atanda">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-- 💻 Frontend Engineer with experience building enterprise web applications
-- ⚡ Passionate about performance optimization and clean architecture
-- 📊 Experienced in data engineering, analytics, and visualization
-- 🎨 Love creating responsive and accessible user experiences
-- 📈 Interested in product development, dashboards, and SaaS platforms
-- 🌱 Always learning new technologies and software engineering practices
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
 
----
+</p>
 
-## 🛠 Tech Stack
-
-### Languages
-
-- JavaScript (ES6+)
-- TypeScript
-- HTML5
-- CSS3
-- SQL
-
-### Frontend
-
-- Svelte
-- SvelteKit
-- React
-- Next.js
-- Vue.js
-- Nuxt.js
-- Tailwind CSS
-- Bootstrap
-- Material UI
-- Shadcn UI
-
-### Data Visualization
-
-- D3.js
-- Power BI
-- Chart.js
-- ApexCharts
-
-### Backend & APIs
-
-- Node.js
-- Express
-- REST APIs
-- GraphQL
-- Prisma
-
-### Databases
-
-- PostgreSQL
-- MySQL
-- MongoDB
-- Firebase
-
-### Data Engineering
-
-- Data Cleaning
-- SQL Optimization
-- Analytics
-- Business Intelligence
-
-### Tools
-
-- Git
-- GitHub
-- Docker
-- Vercel
-- Netlify
-- Postman
-- Figma
-- VS Code
+</div>
 
 ---
 
-## 📌 What I'm Working On
+# 💫 About Me
 
-- Building scalable frontend architectures
-- Creating reusable component libraries
-- Developing interactive dashboards
-- Data visualization applications
-- Performance optimization
-- Full-stack web applications
-- Modern SaaS products
+I'm a Frontend Engineer passionate about building high-performance web applications, interactive dashboards, and exceptional digital experiences.
+
+Over the years, I've worked with modern JavaScript frameworks to develop scalable enterprise applications, reusable component systems, and data-intensive user interfaces.
+
+Alongside frontend engineering, I enjoy transforming complex datasets into meaningful insights through analytics, visualization, and business intelligence solutions.
+
+I believe great software should be fast, maintainable, accessible, and enjoyable to use.
 
 ---
 
-## 🌟 Featured Skills
+# 🚀 Current Focus
 
-- Responsive Design
-- Component Architecture
+- ⚡ High-performance frontend architecture
+- 🎨 Design systems & reusable components
+- 📊 Data visualization & analytics
+- 📈 Dashboard development
+- 🌐 Modern SaaS platforms
+- 🔥 Performance optimization
+- 📱 Responsive UI engineering
+- 🧩 Clean software architecture
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs"/>
+</p>
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=svelte,react,nextjs,vue,nuxt,tailwind"/>
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,graphql"/>
+</p>
+
+## Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase"/>
+</p>
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,postman,vercel"/>
+</p>
+
+---
+
+# 📊 Data Engineering
+
+✔ SQL
+
+✔ Business Intelligence
+
+✔ Power BI
+
+✔ Data Cleaning
+
+✔ Data Analytics
+
+✔ Dashboard Development
+
+✔ Data Visualization
+
+✔ ETL Concepts
+
+---
+
+# 🌟 Core Competencies
+
+- Frontend Architecture
+- Component Libraries
 - State Management
 - API Integration
-- Authentication
 - Performance Optimization
+- Responsive Design
 - Accessibility
+- Authentication
 - Data Visualization
-- Dashboard Development
-- Software Architecture
+- Dashboard Engineering
 
 ---
 
-## 📈 GitHub Stats
+# 📈 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oluwaniyi&show_icons=true&theme=github_dark)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oluwaniyi&layout=compact&theme=github_dark)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=oluwaniyi&theme=github-dark)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+
+</p>
 
 ---
 
-## 📫 Connect With Me
+# 📌 Featured Projects
 
-- LinkedIn: https://linkedin.com/in/enoch-atanda
+- 🚀 Enterprise Dashboard
+- 📊 Analytics Platform
+- 🛒 Full Stack E-Commerce
+- 🎨 Component Library
+- 📈 Data Visualization Dashboard
+- ⚡ Formula Editor (Svelte + Math.js)
 
 ---
 
-> "Building software that is fast, scalable, maintainable, and delivers exceptional user experiences."
+# 🤝 Let's Connect
 
-⭐ Feel free to explore my repositories and connect!
+<p>
+
+<a href="https://linkedin.com/in/enoch-atanda">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### *"Building software that is scalable, performant, and delightful to use."*
+
+⭐ If you find my work interesting, feel free to explore my repositories and connect.
+
+</div>
