@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Enoch Atanda
 
-### Frontend Engineer • Data Engineer • JavaScript Specialist
+### Sofware Engineer • Data Engineer • Frontend Specialist
 
 Building fast, scalable, and intuitive web applications with modern JavaScript technologies.
 
@@ -21,10 +21,8 @@ Building fast, scalable, and intuitive web applications with modern JavaScript t
 
 # 💫 About Me
 
-I'm a Frontend Engineer passionate about building high-performance web applications, interactive dashboards, and exceptional digital experiences.
-
+I'm a Sofware Engineer passionate about building high-performance web applications, interactive dashboards, and exceptional digital experiences.
 Over the years, I've worked with modern JavaScript frameworks to develop scalable enterprise applications, reusable component systems, and data-intensive user interfaces.
-
 Alongside frontend engineering, I enjoy transforming complex datasets into meaningful insights through analytics, visualization, and business intelligence solutions.
 
 I believe great software should be fast, maintainable, accessible, and enjoyable to use.
@@ -81,21 +79,12 @@ I believe great software should be fast, maintainable, accessible, and enjoyable
 # 📊 Data Engineering
 
 ✔ SQL
-
 ✔ Business Intelligence
-
 ✔ Power BI
-
 ✔ Data Cleaning
-
 ✔ Data Analytics
-
 ✔ Dashboard Development
-
 ✔ Data Visualization
-
-✔ ETL Concepts
-
 ---
 
 # 🌟 Core Competencies
@@ -128,17 +117,6 @@ I believe great software should be fast, maintainable, accessible, and enjoyable
 <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
 
 </p>
-
----
-
-# 📌 Featured Projects
-
-- 🚀 Enterprise Dashboard
-- 📊 Analytics Platform
-- 🛒 Full Stack E-Commerce
-- 🎨 Component Library
-- 📈 Data Visualization Dashboard
-- ⚡ Formula Editor (Svelte + Math.js)
 
 ---
 
