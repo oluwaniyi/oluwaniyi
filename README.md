@@ -78,13 +78,13 @@ I believe great software should be fast, maintainable, accessible, and enjoyable
 
 # 📊 Data Engineering
 
-✔ SQL
-✔ Business Intelligence
-✔ Power BI
-✔ Data Cleaning
-✔ Data Analytics
-✔ Dashboard Development
-✔ Data Visualization
+- SQL
+- Business Intelligence
+- Power BI
+- Data Cleaning
+- Data Analytics
+- Dashboard Development
+- Data Visualization
 ---
 
 # 🌟 Core Competencies
