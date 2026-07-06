@@ -50,7 +50,7 @@ I believe great software should be fast, maintainable, accessible, and enjoyable
 ## Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=svelte,react,nextjs,vue,nuxt,tailwind"/>
+<img src="https://skillicons.dev/icons?i=svelte,react,nextjs,vue,tailwind"/>
 </p>
 
 ## Backend
